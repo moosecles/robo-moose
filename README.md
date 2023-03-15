@@ -1,12 +1,12 @@
 # Robo-Moose
-A fully functional Discord music bot template. Simply add in the info for your Discord server, bot , and port forwarded server!
+A fully functional Discord music bot. Simply add in the info for your Discord server, bot, and port forwarded server!
 
 ## To get started you will need to:
 
-- Create a Discord Bot through their website.
+- Create a Discord Bot through the Discord developer [website](https://discord.com/developers/applications).
 - Port forward on your network (if you choose to host locally)
-- Replace all comments with necessary information
-- Run lavalink server AND main script.
+- Replace all comments within the code with the necessary information
+- Run lavalink server AND main script to launch the bot.
 
 
 ## Commands for bot template are as follows:
