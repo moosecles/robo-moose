@@ -1,5 +1,5 @@
 # Robo-Moose
-A fully functional Discord music bot. Simply add in the info for your Discord server, bot, and port forwarded server!
+A fully functional Discord music bot. Feel free to use the code to make your own music bot. Simply add in the info for your Discord server, bot, and port forwarded server!
 
 ## To get started you will need to:
 
